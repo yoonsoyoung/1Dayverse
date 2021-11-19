@@ -49,17 +49,17 @@
 
 1. 인가된 강사만 수업 개설
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/103f4006-cca3-4493-a479-b6f008f5d38a/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142535655-febb1691-274a-4c0a-b137-540946886bc4.png)
     
 2. 카카오 API 를 이용한 결제
     
     2.1 수강 정보 확인
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c23a02e2-5791-4188-9dc0-45845caa8db2/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142536164-eace72d2-8a8b-4a17-8060-22a98ef164b5.png)
     
     2.2 카카오 페이 결제
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/27973f6a-4830-4f85-90ab-26d11a29584b/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142536340-94697da4-0f42-49ef-85ec-66ce828e6b28.png)
     
 
 ### 1.2.2. 수강 관리
@@ -72,17 +72,19 @@
 1. 애니메이션과 건물 하이라이팅
     - 메인 화면 애니메이션
     
-    ![unity_main.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29012fa0-306b-444a-8671-1499019b6e29/unity_main.gif)
+    ![image](https://user-images.githubusercontent.com/32251962/142536715-8125bc07-341c-4156-9d0b-695b159c93be.png)
     
     - 건물 하이라이팅
-    - 
+    
+    ![image](https://user-images.githubusercontent.com/32251962/142555818-3e9380ea-c313-4bc3-a450-49d1e5fe9dfd.png)
+
 2. 캐릭터 선택
     
-    ![unity_character.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e29603ab-72ce-47c6-be8e-d7f4c677bdcc/unity_character.gif)
+    ![image](https://user-images.githubusercontent.com/32251962/142536922-1c4ddaad-1cd9-459e-8c83-dd4626c1f5ce.png)
     
 3. 내 정보 모달
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9601771b-e471-4276-a0d1-9203b8c56dc8/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142538116-74d7e77d-ec3e-4b04-927f-a3d6e649e45d.png)
     
 4. 간단한 게임을 접속할 수 있는 공간
 
@@ -90,15 +92,15 @@
 
 1. 화상 통화
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0afb9fc6-653a-4258-abfc-a54317bb8921/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142538370-01a0625a-0dde-43c8-b9a6-9a3f5b2349ec.png)
     
 2. 채팅
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32e6f418-f803-4297-af2d-74c51bd8ec79/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142538523-809cef65-0b57-4f73-884c-8e7b134c7e0e.png)
     
 3. 화면 공유
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb99c7f2-f9ac-47da-9d9f-0761343af979/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142538641-d23c8ab5-19cf-4fda-84e2-99ea549793d4.png)
     
 
 ### 1.2.3. Photon Server
@@ -147,30 +149,30 @@
 - 교실
     - 5인
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ade6c51-32b6-4ede-97a4-2f0d91538246/Untitled.png)
+        ![image](https://user-images.githubusercontent.com/32251962/142539046-a40155b0-7ec2-4c19-a6ee-c90cd772e3e5.png)
         
     - 10인
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd9c9501-f3c9-459d-8e87-675af5a665f6/Untitled.png)
+        ![image](https://user-images.githubusercontent.com/32251962/142541148-e20296e7-cccf-454d-96f9-59831b3e475a.png)
         
     - 20인
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f3d1183-129a-4ad1-a79c-1547dde1341b/Untitled.png)
+        ![image](https://user-images.githubusercontent.com/32251962/142541303-4c3744ad-23c1-49da-91d5-8b2564fe739e.png)
         
 - 복도
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67edb95c-47bf-4753-9369-7ff57f1ec69d/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142541488-250e7910-ebc5-45d5-aba8-df532635cff0.png)
     
 - 라운지
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb43c871-08d3-4868-a67a-5c6cd510457c/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142542519-186a57cd-080f-4f72-8a87-bf12a45e3bba.png)
     
 
 ### **3.2. 포톤 멀티 서버**
 
 - 멀티플레이
     
-    ![unity_hallway.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5b4e1a7-d6ba-4379-ab46-67582b16c9e3/unity_hallway.gif)
+    ![image](https://user-images.githubusercontent.com/32251962/142543713-a296fbac-54b7-4c58-a3c9-eddb9eb9ae4f.png)
     
 
 ### 3.3. 게임 공유
@@ -181,11 +183,11 @@
 
 - 아키텍처
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42bed9ff-4e05-4360-a012-a41954f40af5/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142543897-bcc09e55-98fb-4479-8933-36b6c5fb72c9.png)
     
 - ERD
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49513106-3b88-4ea6-a7e0-a93bd6361577/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142544049-cc38197e-f9b4-4d88-a1f9-21239f9a21f8.png)
     
 
 ## **5. 레이아웃 및 디자인**
@@ -193,13 +195,12 @@
 - 와이어 프레임 (Figma)
     - Unity
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02990c54-8e14-4e46-bed2-b91ff3c8e9e1/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142544217-292fa140-4fc7-4527-ab2e-99f60b5b7311.png)
     
     - Web
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3559157c-2c8b-4af6-91c4-2ba7f584391f/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/32251962/142544383-75246e4e-280a-4e0b-89e2-4d69a54c954f.png)
     
 
 ## 6. UCC
-
-[https://youtu.be/oCjh1UEKajo](https://youtu.be/oCjh1UEKajo)
+[![UCC](https://img.youtube.com/vi/oCjh1UEKajo/0.jpg)](https://youtu.be/oCjh1UEKajo)

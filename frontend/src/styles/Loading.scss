@@ -1,0 +1,15 @@
+@import "./common.scss";
+#LoadingRoot {
+	width: 100vw;
+
+	z-index: 50;
+	margin: 0 auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	overflow: hidden;
+	background: white;
+}
+.gif-box {
+	height: 60%;
+}

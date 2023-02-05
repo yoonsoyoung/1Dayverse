@@ -1,0 +1,165 @@
+@import "./common.scss";
+#CameraRoot {
+	width: 70%;
+	height: 100%;
+	float: left;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.cam-content-box {
+	height: 90%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-content: flex-start;
+}
+.alert-box {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+	margin: 0 auto;
+	span {
+		margin-left: 35px;
+	}
+	button {
+		background: none;
+		border: none;
+		color: $dark-color;
+		font-size: $body-font-size;
+	}
+}
+#share-content {
+	flex: 4;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	#share-screen {
+		width: 100%;
+		.screen-video {
+			.active-user {
+				width: 100% !important;
+				height: 100% !important;
+			}
+		}
+	}
+}
+.screen-video {
+	.active-user {
+		#local-video-undefined {
+			max-height: none !important;
+		}
+	}
+}
+.focus-cam .screen-video {
+	.active-user {
+		video {
+			max-height: none !important;
+		}
+	}
+}
+.video-content {
+	flex: 2;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: flex-start;
+	#videos {
+		display: inline-flex;
+		flex-direction: row;
+		align-content: center;
+		justify-content: center;
+		justify-items: center;
+		flex-wrap: wrap;
+		flex: 10;
+		.publisher,
+		.subscribers {
+			margin: 10px;
+		}
+	}
+	.paging-btn {
+		margin-top: 20px;
+		button {
+			background: none;
+			border: none;
+			border-radius: 100%;
+			color: $main-color;
+		}
+		button:hover {
+			color: $sub-color;
+		}
+	}
+	#prev {
+		flex: 1;
+	}
+	#next {
+		flex: 1;
+	}
+}
+#webcam-nav {
+	height: 10%;
+	width: 50%;
+	margin: 0 auto;
+	border-radius: 50px;
+	background: $light-color;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	z-index: 10;
+	.webcam-btn {
+		width: 50px;
+		height: 50px;
+		background: none;
+		border: none;
+		margin: 0px 10px;
+		.webcam-btn-icon {
+			font-size: $body-font-size;
+			color: $dark-color;
+		}
+		.webcam-btn-icon:hover {
+			color: $main-color;
+		}
+		.leave-icon {
+			color: $heart-color;
+		}
+		.leave-icon:hover {
+			color: $red-color;
+		}
+	}
+}
+.publisher,
+.subscribers {
+	width: 180px;
+	height: 135px;
+	.inactive-user {
+		width: 100% !important;
+		height: 100% !important;
+		background: #242424;
+		border-radius: 10px;
+		display: grid;
+		align-items: end;
+		justify-content: center;
+		align-content: center;
+		justify-items: stretch;
+		margin: 0 auto;
+	}
+}
+.flex-column {
+	flex-direction: column !important;
+	flex: 1 !important;
+	align-items: center !important;
+	.paging-btn {
+		margin-top: 0 !important;
+	}
+}
+.focus-cam {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 90%;
+	height: 100%;
+	z-index: 20;
+}

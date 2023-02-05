@@ -1,0 +1,105 @@
+@import "./common.scss";
+#CamSettingRoot {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 90;
+	left: 50%;
+	top: 0;
+	z-index: 90;
+	transform: translate(-50%, 0);
+}
+.alert-box {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+	margin: 0 auto;
+	span {
+		margin-left: 35px;
+	}
+	button {
+		background: none;
+		border: none;
+		color: $dark-color;
+		font-size: $body-font-size;
+	}
+}
+.setting-card {
+	width: 80%;
+	min-height: 500px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 40px;
+	.card-title {
+		font-size: $subtitle-font-size;
+	}
+}
+.card-box {
+	display: flex;
+	align-content: center;
+	justify-items: center;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+.left-box {
+	width: 50%;
+	min-width: 300px;
+	height: 200px;
+}
+.set-cam {
+	width: 300px;
+	height: 220px;
+}
+.right-box {
+	width: 50%;
+	.icon {
+		display: inline-block;
+		padding: 20px 20px;
+	}
+	select {
+		width: 75%;
+		height: 40px;
+		border: none;
+		border-bottom: 1px solid $dark-color;
+		font-size: $smallest-font-size;
+	}
+}
+.btn-box {
+	.submit-btn {
+		border: none;
+		background: $point-color;
+		color: $white-color;
+		width: 150px;
+		height: 40px;
+		border-radius: 50px;
+	}
+	.submit-btn:hover {
+		background: #cd5b92;
+	}
+	.cancel-btn {
+		border: none;
+		background: $gray-color;
+		color: $white-color;
+		width: 150px;
+		height: 40px;
+		border-radius: 50px;
+		margin-right: 20px;
+	}
+	.cancel-btn:hover {
+		background: $dark-gray-color;
+	}
+}
+.reset-col {
+	text-align: right;
+	margin-right: 5px;
+	.reset-btn {
+		background: none;
+		border: none;
+		color: $dark-color;
+	}
+	.reset-btn:hover {
+		color: $main-color;
+	}
+}
